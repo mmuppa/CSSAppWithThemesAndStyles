@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Activity Titles -->
+    <string name="app_name">List of CSS Courses</string>
+    <string name="app_course_add_name">Add a new CSS Course</string>
+    <string name="app_about_name">About</string>
+
+    <!-- course hints -->
+    <string name="course_id_hint">Enter Course Id</string>
+    <string name="course_short_desc_hint">Enter Course Title</string>
+    <string name="course_long_desc_hint">Enter Course Description</string>
+    <string name="prereqs_hint">Enter prerequisites</string>
+    <string name="add_course_button">Add Course</string>
+
+    <!--instructor hints -->
+    <string name="instructor_name_hint">Enter instructor name</string>
+    <string name="instructor_email_hint">Enter instructor email</string>
+    <string name="instructor_phone_hint">Enter instructor phone</string>
+    <string name="instructor_office_hint">Enter instructor office location</string>
+    <string name="instructor_bio_hint">Enter instructor bio</string>
+    <string name="add_instructor_button">Add Instructor</string>
+
+
+    <!--About text -->
+    <string name="about_label">This app was developed by Menaka Abraham as an example of using different
+    android concepts in TCSS450 Course. </string>
+    <string name="action_about">About</string>
+
+
+    <string name="title_activity_instructor">InstructorActivity</string>
+
+    <string-array name="titles">
+        <item>Professor</item>
+        <item>Associate Professor</item>
+        <item>Assistant Professor</item>
+        <item>Full-time Lecturer</item>
+        <item>Part-time Lecturer</item>
+    </string-array>
+
+
+    <string name="action_new">Add New Course</string>
+    <string name="title_activity_course_list">CourseListActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
